@@ -27,3 +27,10 @@ print("✅ Excel file saved at:", file_path)
 x1 = Dispatch('Excel.Application')
 x1.Visible = True  # Show Excel window
 x1.Workbooks.Open(file_path)
+
+
+
+
+
+
+
