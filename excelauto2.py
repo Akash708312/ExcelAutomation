@@ -8,6 +8,7 @@ from openpyxl.worksheet.table import Table, TableStyleInfo
 from win32com.client import Dispatch
 import os
 
+
 # Step 1: Sample Data
 data = {
     "Asset Name": ["Asset 1", "Asset 2", "Asset 3"],
